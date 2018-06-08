@@ -1,0 +1,186 @@
+.panelBackground {
+	background: linear-gradient(to right, #ece9e6, #ffffff);
+	margin-top: 2px;
+	box-shadow: 5px 5px 5px #666;
+	overflow: hidden;
+}
+
+.header_background {
+	background: linear-gradient(to right, #f83600, #fe8c00);
+	padding-right: 10%;
+	padding-left: 10%;
+	margin-bottom: 30px;
+}
+
+.footer_background {
+	background: linear-gradient(to right, #f83600, #fe8c00);
+}
+
+.practice_layout {
+	background: linear-gradient(to right, #ece9e6, #ffffff);
+	margin-left: 5%;
+	margin-right: 5%;
+	min-height: 500px;
+}
+
+.center_components {
+	text-align: center;
+}
+
+.main_panel {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.audio_player {
+	display: inline-block;
+	padding-top: 0px;
+}
+
+.audio_player_header {
+	font-size: 15px;
+	height: 40px;
+	margin-top: 0px;
+}
+
+.red_text_color {
+	color: red;
+}
+
+.thirty {
+	width: 30%;
+	display: block;
+	float: right;
+}
+
+.seventy {
+	width: 70%;
+	display: block;
+	float: left;
+}
+
+.fifthyRight {
+	width: 50%;
+	display: block;
+	float: right;
+}
+
+.fifthyLeft {
+	width: 50%;
+	display: block;
+	float: left;
+}
+
+.right {
+	margin-top: 50px;
+	float: right;
+}
+
+.txtBlank {
+	width: 150px;
+	height: 25px;
+}
+
+.incorrectAns {
+	border-style: solid;
+	border-color: red;
+}
+
+.correctAns {
+	border-style: solid;
+	border-color: green;
+}
+
+.panelAnswerSheet {
+	margin-top: 20px;
+	overflow: hidden;
+	background: linear-gradient(to top, #FFFFE0, #FFFFE0);
+}
+
+.incorrectAnswerPanelL01 {
+	height: 40px;
+	padding-left: 2px;
+	display: inline-block;
+	width: 18%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: black;
+	background: #D3D3D3;
+	margin-right: 2px;
+}
+
+.incorrectAnswerPanelL02 {
+	height: 40px;
+	padding-left: 2px;
+	display: inline-block;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: black;
+	background: #D3D3D3;
+	margin-right: 2px;
+}
+
+.floatleft {
+	float: left;
+}
+
+.floatright {
+	float: right;
+	font-size: 20px;
+}
+
+.txtWriteFromDictation {
+	width: 100%;
+}
+
+.lineHeight {
+	line-height: 2.5;
+}
+
+.recoderParent {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.recoderChild {
+	width: 400px;
+	background: linear-gradient(to top, #FFFFE0, #FFFFE0);
+}
+
+.recoderPlayBack {
+	padding-top: 10px
+}
+
+.divTop {
+	top: 0;
+}
+
+.divBottom {
+	bottom: 0;
+}
+
+.divContainer {
+	position: relative;
+}
+
+.borderTextArea {
+	border-style: groove;
+}
+
+#checkboxes ul {
+	margin: 0;
+	list-style: none;
+	float: left;
+}
+
+.fontTitle {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.marginBottom{
+	margin-bottom: 120px;
+}

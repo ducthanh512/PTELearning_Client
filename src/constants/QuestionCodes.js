@@ -1,0 +1,16 @@
+export const questioncodes = {
+    "L01" : "FILL IN THE BLANKS",
+    "L02" : "WRITE FROM DICTATION",
+    "R05" : "FILL IN THE BLANKS",
+    "R06" : "MULTIPLE ANSWERS",
+    "S11" : "READ ALOUD",
+    "S12" : "REPEAT SENTENCE",
+    "W09" : "ESSAY",
+    "W10" : "SUMMARISE WRITTEN TEXT",
+
+    "L03" : "SUMMARISE SPOKEN TEXT",
+    "L04" : "SELECT MISSING WORD",
+    "R07" : "SINGLE ANSWER",
+    "R08" : "RE-ORDER PARAGRAPHS",
+
+}
